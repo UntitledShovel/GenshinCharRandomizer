@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Fira+Sans:wght@400;700&display=swap');
+
+h1 {
+    font-family: 'Fascinate';
+    color: #635666;
+}
+
+p, button {
+    font-family: 'Fira Sans';
+}
+
+p {
+    font-size: 25px;
+    color: #839AA8;
+}
+
+button {
+    padding: 10px;
+    border-radius: 6px;
+    color: #635666;
+    background-color: #D3EBCD;
+}
+
+button:hover {
+    background-color: #AEDBCE;
+    padding: 15px;
+    cursor: pointer;
+}
+
+body {
+    background-color: #D3EBCD;
+}
